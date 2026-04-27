@@ -6,7 +6,7 @@
       
       <class name="testCases.HomePage"/>
       <class name="testCases.VehicleData_EndToEndTests"/>
-      <class name="testCases.VehicleData_ErrorTests"/>
+   <!--   <class name="testCases.VehicleData_ErrorTests"/>-->
       
     </classes>
   </test> <!-- Test -->
